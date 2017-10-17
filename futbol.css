@@ -1,0 +1,67 @@
+.cesped{
+	background-color: green;
+	width:700px;
+	height:400px;
+	position: relative;
+	top:100px;
+	left:100px;
+}
+.cancha{
+	width: 650px;
+	height:350px;
+	border: 6px solid white;
+	position:relative;
+	bottom: 280px;
+	left: 120px;
+}
+.círculo{
+	background-color: transparent; 
+	border:5px solid white; 
+	width: 150px;
+    height: 150px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    position: relative;
+	bottom: 540px;
+	left:370px;	
+}
+.arco1{
+	width: 100px; 
+     height: 200px; 
+     border: 3px solid white;
+     background-color: transparent;
+     position: relative;
+	bottom: 720px;
+	left:120px;	
+}
+.arco2{
+	width: 100px; 
+     height: 200px; 
+     border: 3px solid white;
+     background-color: transparent;
+     position: relative;
+	bottom: 930px;
+	left:675px;	
+}
+.pelota1{
+	width:30px; 
+     height:30px;	
+     position: relative;
+	bottom: 970px;
+	left:630px;	
+}
+.pelota2{
+	width:30px; 
+     height:30px;	
+     position: relative;
+	bottom: 1180px;
+	left:450px;
+}
+.pelota3{
+	width:30px; 
+     height:30px;	
+     position: relative;
+	bottom: 1130px;
+	left:135px;
+}
